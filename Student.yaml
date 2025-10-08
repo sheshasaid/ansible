@@ -1,41 +1,21 @@
-- name: "sivakumar reddy m"
-  dob: "01-01-01"
-  age: 21
+- name: "sheshasai"
+  dob: "28-09-1992"
+  age: 33
   addresses:
     # Object
-  - doorNo: 4-32
-    street: "gandhi nagar"
+  - doorNo: 10-1-316
+    street: "santosh nagar"
     city: hyderabd
-    pin: 534565
+    pin: 500085
     type: current
   
-  - doorNo: 4-32
-    street: "gandhi nagar"
+  - doorNo: 01
+    street: "santosh nagar"
     city: hyderabd
-    pin: 534565
+    pin: 500085
     type: perm
   skills:
   - java
   - devops
   - cloud
 
-- name: "ramesh"
-  dob: "01-01-01"
-  age: 21
-  addresses:
-    # Object
-  - doorNo: 4-32
-    street: "gandhi nagar"
-    city: hyderabd
-    pin: 534565
-    type: current
-  
-  - doorNo: 4-32
-    street: "gandhi nagar"
-    city: hyderabd
-    pin: 534565
-    type: perm
-  skills:
-  - java
-  - devops
-  - cloud
