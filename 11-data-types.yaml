@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    course: "DevOps with AWS"
+    COURSE: "DevOps with AWS"
     Duration: 120
     is_live: true 
 
