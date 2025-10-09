@@ -18,4 +18,4 @@
 
   - name: PLAY-02 and TASK-02
     ansible.builtin.debug:
-      msg: "Hello from PLAY-01 and TASK-02"
+      msg: "Hello from PLAY-02 and TASK-02"
