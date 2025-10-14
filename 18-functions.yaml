@@ -1,6 +1,8 @@
 - name: functions
   hosts: local
   connection: local
+  vars:
+    technologies: DevOps, Linux, Shell, Ansible
   tasks:
   - name: default variable
     ansible.builtin.debug:
